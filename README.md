@@ -1,4 +1,4 @@
-First run ePIC_Analysis.C, the ePIC_Plotting.C
+First run ePIC_Analysis.C, then ePIC_Plotting.C
 
 ## ePIC_Analysis.C
 
