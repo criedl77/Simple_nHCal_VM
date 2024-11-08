@@ -1,9 +1,3 @@
-// Run this macro, from the Linux / Terminal command line, as
-// root -l -q ePIC_Plotting.C
-// The only condition is that previously ran ePIC_Analysis.C  with the identical "strang" as hardcoded in this macro (below)
-// Strang must match the string in a file starting with out*, in this directory
-// CR 2024-08-14/20
-
 void ePIC_Plotting()
 {
   gSystem->Exec("date");

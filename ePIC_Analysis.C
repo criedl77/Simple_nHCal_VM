@@ -1,10 +1,3 @@
-// Run this macro, from the Linux / Terminal command line, as
-// root -l -q ePIC_Analysis.C
-// The only condition is that there is a subdirectory called "data" that contains the input MC file
-// (provided by Caroline on Box / copied from SDCC)
-// The name of this input MC file (variable "strang") is hardcoded in this macro and must match with the file name
-// CR 2024-08-14/20
-
 void ePIC_Analysis(){
 
   gSystem->Exec("date");
