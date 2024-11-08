@@ -29,7 +29,6 @@ void ePIC_Analysis(){
   TString infile_ram=indir + TString("/") + strang + TString(".root");  // remains in RAM
   const char *infile=infile_ram.Data(); // points to a valid address in RAM
   cout << "Analyzed MC file will be: " << infile << " \n";
-  
 
   TString outfile_ram= TString("out.") + strang + TString("-") + flavor + TString(".root");
   const char *outfile=outfile_ram.Data();

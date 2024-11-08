@@ -29,8 +29,6 @@ void ePIC_Plotting()
   
   cout << "Reading infile:\n " << infile << " .\n";
 
- 
-  
   // FILE 1 - generated eta //
   
   // Define the name of the plot:
