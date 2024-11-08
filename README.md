@@ -7,6 +7,7 @@ Run this macro, from the Linux / Terminal command line, as
 root -l -q ePIC_Analysis.C
 
 The only condition is that there is a subdirectory called "data" that contains the input MC file (from SDCC), which can be downloaded here:
+https://uofi.box.com/s/mjyewaidimk5ka7oaxgi37ltgbkz3nf4
 
 The name of this input MC file (variable "strang") is hardcoded in this macro and must match with the file name
 
