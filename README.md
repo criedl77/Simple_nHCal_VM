@@ -1,3 +1,5 @@
+First run ePIC_Analysis.C, the ePIC_Plotting.C
+
 ## ePIC_Analysis.C
 
 CR 2024-08-14/20
